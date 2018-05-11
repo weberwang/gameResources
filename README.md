@@ -1,2 +1,14 @@
-# gameResources
-游戏资源链接
+***标注为部分付费**
+ - [*Unity资源商店](https://www.assetstore.unity3d.com/)
+ - [*Super Game Asset](http://www.supergameasset.com/)
+ - [*GameDev Marke](https://www.gamedevmarket.net/)
+ - [*Graphicriver-Game Assets](http://graphicriver.net/category/game-assets)
+ - [*itch](https://itch.io)
+ - [*Scirra Store](https://www.scirra.com/store)
+ - [*Game Art Partners](http://gameartpartners.com/)
+ - [Open Game Art](http://opengameart.org/)
+ - [Kenny Game Assets](http://kenney.nl/assets)
+ - [Game-Icons.net](http://game-icons.net/)
+ - [Reiner’s Tilesets](http://www.reinerstilesets.de/en/)
+ - [Free Music Archive](http://freemusicarchive.org/)
+ - [*graphic-buffet2d](http://www.graphic-buffet.com/)
